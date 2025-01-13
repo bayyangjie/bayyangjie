@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Bay Yang Jie</h1>
-<h3 align="center">Passionate about data analytics and seeking opportunities to leverage my skills to enhance efficiency and make meaningful contributions to business organizations.</h3>
+<h3 align="center">I hold a Master's degree in Data Analytics and Visualization, and I am enthusiastic about exploring various methods to extract insights from data. Currently, I am looking for full-time/internship opportunities to apply my skills in order to improve efficiency and provide valuable contributions to business organizations..</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bayyangjie" alt="bayyangjie" /></a> </p>
-
-- 🔭 I’m currently working on a SQL-Tableau project - **Bank Loan Analysis of Customers**
-
-- 🌱 I’m currently learning **to further advance my SQL and Dashboarding skills**
-
-- 💬 Ask me about **Python, SQL, R, Git**
+<table>
+<tr>
+<td>
+  
+  * 🔭 I’m currently working on a SQL-Tableau project titled **Bank Loan Analysis of Customers**  <br>
+  
+  * 🌱 I’m currently learning **to further advance my SQL and Dashboarding skills**  <br>
+  
+  * 💬 Ask me about **Python, SQL, R, Git**  <br>
+</td>
+<td>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh5a3k0NWJ3NjRwZ3ZvM3poajdremdhN2lhdjdyOWNqenhvdzRjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" width="300">
+</td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
