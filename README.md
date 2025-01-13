@@ -3,9 +3,9 @@
 <h3 align="center"> Master's graduate passionate about Data Analytics and seeking opportunities to apply my skills for contributing to efficiency within organizations </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pfpj8sd0gyi379tpwm939k2rvbzgy5redsjrj0c8&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on a project titled **Bank Loan Analysis of Customers**
+- 🔭 I’m currently working on a SQL-Tableau project regarding **Bank Loan Analysis of Customers** 
 
-- 🌱 I’m currently learning **to further advance my dashboarding skills**
+- 🌱 I’m currently focusing on **advancing my Dashboarding skills for creating efficient visualisations**
 
 - 💬 Ask me about **Python, SQL, R**
 
