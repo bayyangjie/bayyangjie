@@ -1,13 +1,13 @@
 <img src="https://github.com/user-attachments/assets/04eb069c-3a06-48f8-a679-21266dd0bf32" alt="MasterHead" width="100%">
 <h1 align="center">Hi 👋, I'm Yang Jie </h1>
 <h3 align="center"> I am Master's graduate in Data Analytics and Visualisation from SUSS and currently seeking opportunities to apply my skills for contributing to efficiency within organizations </h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pfpj8sd0gyi379tpwm939k2rvbzgy5redsjrj0c8&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pfpj8sd0gyi379tpwm939k2rvbzgy5redsjrj0c8&ep=v1_gifs_related&rid=giphy.gif&ct=g"> <br> <br>
 
-- 🔭 I’m currently working on a SQL-Tableau project regarding **Bank Loan Analysis of Customers** 
+- 🔭 I’m currently working on a SQL-Tableau project regarding **Bank Loan Analysis of Customers** <br> <br>
 
-- 🌱 I’m currently working on buidling end-to-end analytics projects for **enhancing my knowledge in Dashboarding**
+- 🌱 I’m currently focusing on building my personal analytics projects for **enhancing my knowledge in Dashboarding** <br> <br>
 
-- 💬 Ask me about **Python, SQL, R**
+- 💬 Ask me about **Python, SQL, R** <br> <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
