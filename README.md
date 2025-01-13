@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bay Yang Jie</h1>
-<h3 align="center">Passionate about data analytics and seeking opportunities to apply my skills for improving efficiency in business orgnaizations.</h3>
+<h3 align="center">Passionate about data analytics and seeking opportunities to leverage my skills to enhance efficiency and make meaningful contributions to business organizations.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bayyangjie" alt="bayyangjie" /></a> </p>
 
