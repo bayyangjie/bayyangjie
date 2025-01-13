@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/04eb069c-3a06-48f8-a679-21266dd0bf32" alt="MasterHead" width="100%">
-<h1 align="center">Hi 👋, I'm Bay Yang Jie </h1>
-<h3 align="center"> Master's graduate passionate about data analytics and seeking opportunities to apply my skills for contributing to organizational efficiency </h3>
+<h1 align="center">Hi 👋, I'm Yang Jie </h1>
+<h3 align="center"> Master's graduate passionate about Data Analytics and seeking opportunities to apply my skills for contributing to efficiency within organizations </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pfpj8sd0gyi379tpwm939k2rvbzgy5redsjrj0c8&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on a project titled **Bank Loan Analysis of Customers**
