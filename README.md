@@ -1,21 +1,13 @@
-<h1 align="center">Hi 👋, I'm Bay Yang Jie</h1>
-<h3 align="center">I hold a Master's degree in Data Analytics and Visualization, and I am enthusiastic about exploring various methods to extract insights from data. Currently, I am looking for full-time/internship opportunities to apply my skills in order to improve efficiency and provide valuable contributions to business organizations..</h3>
+<img src="https://github.com/user-attachments/assets/04eb069c-3a06-48f8-a679-21266dd0bf32" alt="MasterHead" width="100%">
+<h1 align="center">Hi 👋, I'm Bay Yang Jie </h1>
+<h3 align="center"> Master's graduate passionate about data analytics and seeking opportunities to apply my skills for contributing to organizational efficiency </h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pfpj8sd0gyi379tpwm939k2rvbzgy5redsjrj0c8&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
-<table>
-<tr>
-<td>
-  
-  * 🔭 I’m currently working on a SQL-Tableau project titled **Bank Loan Analysis of Customers**  <br>
-  
-  * 🌱 I’m currently learning **to further advance my SQL and Dashboarding skills**  <br>
-  
-  * 💬 Ask me about **Python, SQL, R, Git**  <br>
-</td>
-<td>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh5a3k0NWJ3NjRwZ3ZvM3poajdremdhN2lhdjdyOWNqenhvdzRjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" width="300">
-</td>
-</tr>
-</table>
+- 🔭 I’m currently working on a project titled **Bank Loan Analysis of Customers**
+
+- 🌱 I’m currently learning **to further advance my dashboarding skills**
+
+- 💬 Ask me about **Python, SQL, R**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
