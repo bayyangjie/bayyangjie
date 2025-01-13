@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bayyangjie" alt="bayyangjie" /></a> </p>
 
-- 🔭 I’m currently working on **Bank Loan Analysis of Customers**
+- 🔭 I’m currently working on a SQL-Tableau project - **Bank Loan Analysis of Customers**
 
-- 🌱 I’m currently learning **to further advance my dashboarding skills**
+- 🌱 I’m currently learning **to further advance my SQL and Dashboarding skills**
 
-- 💬 Ask me about **Python, SQL, R**
+- 💬 Ask me about **Python, SQL, R, Git**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
