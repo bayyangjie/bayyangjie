@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a SQL-Tableau project regarding **Bank Loan Analysis of Customers** 
 
-- 🌱 I’m currently focusing on **advancing my Dashboarding skills for creating efficient visualisations**
+- 🌱 I’m currently focusing on **advancing my Dashboarding skills for creating effective visualisations**
 
 - 💬 Ask me about **Python, SQL, R**
 
