@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/04eb069c-3a06-48f8-a679-21266dd0bf32" alt="MasterHead" width="100%">
 <h1 align="center">Hi 👋, I'm Yang Jie </h1>
 
-* 💼 I am currently searching for career opportunities in Data Analytics where I can apply my analytical skills and expertise to practical applications and support data-driven decision-making within a business organization. <br> <br>
+* 💼 I am actively looking for career opportunities in Data Analytics to utilize my analytical skills and knowledge in real-world applications, aiding data-driven decision-making in a business setting. <br> <br>
 * 🌱 I am currently working on building personal projects for expanding my portfolio as well as deepening and expanding my knowledge in analytical skills such as SQL, Python and BI Tools <br> <br>
 * 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YQlg7hEAAMfM48EwwJr5a4RmaUyZEGd0/view?usp=drive_link)
 
