@@ -3,7 +3,7 @@
 <h3 align="center"> Master's Graduate in Data Analytics and Visualisation from SUSS </h3>
 
 * 💼 I am currently searching for career opportunities in Data Analytics where I can apply my analytical skills and expertise to practical applications and support data-driven decision-making within business organizations. <br> <br>
-* 🌱 I am currently building personal projects for expanding my portfolio as well as deepening and expanding my knowledge in technical analytical skills such as SQL for database querying, Python and BI Tools <br> <br>
+* 🌱 I am currently working on building personal projects for expanding my portfolio as well as deepening and expanding my knowledge in analytical skills such as SQL, Python and BI Tools <br> <br>
 * 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YQlg7hEAAMfM48EwwJr5a4RmaUyZEGd0/view?usp=drive_link)
 
 <h3 align="center">Connect with me:</h3>
