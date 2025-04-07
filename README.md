@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/04eb069c-3a06-48f8-a679-21266dd0bf32" alt="MasterHead" width="100%">
+<img src="https://github.com/bayyangjie/bayyangjie/blob/main/360_F_707027965_o1Nawl8IUYvBowX2BWbJBO8lAyHtkuIa.jpg?raw=true" alt="MasterHead" width="100%">
 <h1 align="center">Hi 👋, I'm Yang Jie </h1>
 
 * 💼 I am actively looking for career opportunities in Data Analytics to utilize my analytical skills and knowledge in real-world applications and contribute to data-driven decision-making in a business setting. <br> <br>
