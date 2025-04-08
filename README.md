@@ -32,7 +32,7 @@
   
 <br><br>
 
-  <img src="https://img.shields.io/badge/Tool-SSMS%20SQL-white?logo=microsoftsqlserver&logoColor=blue">
+  <img src="https://img.shields.io/badge/Tool-SSMS-white?logo=microsoftsqlserver&logoColor=blue">
   <img src="https://img.shields.io/badge/Tool-MySQL%20Workbench-maroon?logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Tool-pgAdmin4-lightpink?logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Tool-Power%20BI-red?logo=powerbi&logoColor=white">
