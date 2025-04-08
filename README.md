@@ -23,8 +23,7 @@
   <img src="https://img.shields.io/badge/Code-Python-blue?logo=python">
   <img src="https://img.shields.io/badge/Code-R-silver?logo=R">
   <img src="https://img.shields.io/badge/Code-SQL-Gold?logo=SQL">
-  <img src="https://img.shields.io/badge/Code-Github-purple?logo=Github">  
-
+  
 <br><br>
 
   <img src="https://img.shields.io/badge/SQL Server-PostgreSQL-turquoise?logo=PostgreSQL">
