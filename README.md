@@ -5,7 +5,7 @@
 * 💼 I am actively seeking career opportunities in Data Analytics to utilize my analytical skills and knowledge in real-world applications and contribute to data-driven decision-making in a business setting. <br> <br>
 * 🌱 I am currently working on building personal projects to expand my portfolio while advancing my knowledge in analytical skills <br> <br>
 * 📚 I am currently learning more about Data Warehousing to stitch together a full understanding of a Data Warehousing to Analytics process. <br><br>
-* 📄 Know about my experiences [here](https://drive.google.com/file/d/1YQlg7hEAAMfM48EwwJr5a4RmaUyZEGd0/view?usp=drive_link)
+* 📄 Know about my experiences [here](https://drive.google.com/file/d/1LJwL2bizV5MOuKfTTHsF2T2klDfOlbkx/view?usp=sharing)
 
 <br>
 
